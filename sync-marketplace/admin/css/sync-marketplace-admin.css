@@ -1,0 +1,18 @@
+.smp-read-sync-log {
+	width: 800px !important;
+	height: 250px;
+}
+
+.smp-delete-log {
+	display: block !important;
+	margin-top: 5px !important;
+}
+
+.non-clickable {
+	pointer-events: none;
+	opacity: 0.5;
+}
+
+.smp-verify-rest-api-credentials {
+	margin-right: 5px !important;
+}

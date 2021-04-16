@@ -1,0 +1,14 @@
+.svn-read-sync-log {
+	width: 800px !important;
+	height: 250px;
+}
+
+.svn-delete-log {
+	display: block !important;
+	margin-top: 5px !important;
+}
+
+.non-clickable {
+	pointer-events: none;
+	opacity: 0.5;
+}
